@@ -1,2 +1,0 @@
-# Ciencia-dos-Dados
-CD
